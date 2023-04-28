@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 
-// import link from 'next/link';
 import Link from 'next/link';
 import { getCategories } from '../services';
+
 const Header = () => {
   const [categories, setCategories] = useState([]);
 
