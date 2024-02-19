@@ -1,3 +1,5 @@
+Live deployed link: https://codeconnectnow.netlify.app/
+
 About
 Introducing CodeConnect - the ultimate platform for sharing programming and development guidance. Connect with like-minded individuals, learn from their successes, and achieve your goals. Join our intra-university blog and start sharing your knowledge today!
 
